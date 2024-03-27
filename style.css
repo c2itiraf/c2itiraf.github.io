@@ -10,6 +10,7 @@ h1 {
 	left: 50%;
 	transform: translate(-50%,-50%);
 	font-size: 10vw;
+	color: red;
 }
 .no-click {
 	width: 100vw;
